@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name: 王伟鸿
-  email: 597084476@qq.com
+  name: "王伟鸿"
+  email: "597084476@qq.com"
   twitter: 
   google:
     ad-client:
     ad-slot:
-  bio: "小黄页~~"
+  bio: "weipengde小黄页~~"
   avatar: #这是个人照片，例如bio-photo.jpg  160x160 px image for author byline
   disqus-shortname:
 
@@ -62,4 +62,5 @@ exclude:
   - package.json
   - spec
   - tmp
+  
 port: 5001
